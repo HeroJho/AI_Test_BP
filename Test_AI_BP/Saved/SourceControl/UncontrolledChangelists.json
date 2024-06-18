@@ -1,0 +1,43 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/Test_AI_BP/Test_AI_BP/Content/ThirdPerson/Blueprints/BP_Player.uasset",
+				"D:/Test_AI_BP/Test_AI_BP/Content/Player/BP_Player.uasset",
+				"D:/Test_AI_BP/Test_AI_BP/Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset",
+				"D:/Test_AI_BP/Test_AI_BP/Content/Player/BP_Enemie_Base.uasset",
+				"D:/Test_AI_BP/Test_AI_BP/Content/Enemies/BP_Enemie_Base.uasset",
+				"D:/Test_AI_BP/Test_AI_BP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/QN/WZDNVMCYCET2RBLEGT0RU8.uasset",
+				"D:/Test_AI_BP/Test_AI_BP/Content/Enemies/AI/BT_Enemy_Base.uasset",
+				"D:/Test_AI_BP/Test_AI_BP/Content/Enemies/AI/BB_Enemy_Base.uasset",
+				"D:/Test_AI_BP/Test_AI_BP/Content/Enemies/AI/AIC_Enemy_Base.uasset",
+				"D:/Test_AI_BP/Test_AI_BP/Content/Enemies/AI/Tasks/BTT_DefaultAttack.uasset",
+				"D:/Test_AI_BP/Test_AI_BP/Content/Resources/Animations/StandingMeleeAttack.uasset",
+				"D:/Test_AI_BP/Test_AI_BP/Content/Resources/Animations/AM_Attack.uasset",
+				"D:/Test_AI_BP/Test_AI_BP/Content/Enemies/AI/Animations/AM_Attack.uasset",
+				"D:/Test_AI_BP/Test_AI_BP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/Q3/G4WVH34OGSDFT3B4OKDHUB.uasset",
+				"D:/Test_AI_BP/Test_AI_BP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/X2/3JWNJKMEBXOWU80BT7MNLZ.uasset",
+				"D:/Test_AI_BP/Test_AI_BP/Content/Enemies/AI/BTT_FocusTarget.uasset",
+				"D:/Test_AI_BP/Test_AI_BP/Content/Enemies/AI/BTT_ClearFocus.uasset",
+				"D:/Test_AI_BP/Test_AI_BP/Content/AITest/Enemies/BP_Enemie_Base.uasset",
+				"D:/Test_AI_BP/Test_AI_BP/Content/AITest/Enemies/AI/AIC_Enemy_Base.uasset",
+				"D:/Test_AI_BP/Test_AI_BP/Content/AITest/Enemies/AI/BB_Enemy_Base.uasset",
+				"D:/Test_AI_BP/Test_AI_BP/Content/AITest/Enemies/AI/BT_Enemy_Base.uasset",
+				"D:/Test_AI_BP/Test_AI_BP/Content/AITest/Enemies/AI/Tasks/BTT_DefaultAttack.uasset",
+				"D:/Test_AI_BP/Test_AI_BP/Content/AITest/Enemies/AI/BTT_FocusTarget.uasset",
+				"D:/Test_AI_BP/Test_AI_BP/Content/AITest/Enemies/AI/Animations/AM_Attack.uasset",
+				"D:/Test_AI_BP/Test_AI_BP/Content/AITest/Enemies/AI/BTT_ClearFocus.uasset",
+				"D:/Test_AI_BP/Test_AI_BP/Content/AITest/Player/BP_Player.uasset",
+				"D:/Test_AI_BP/Test_AI_BP/Content/Characters/Mannequins/Meshes/SK_Mannequin.uasset",
+				"D:/Test_AI_BP/Test_AI_BP/Content/Characters/Mannequins/Meshes/SKM_Manny.uasset",
+				"D:/Test_AI_BP/Test_AI_BP/Content/AITest/Weapons/BP_Sword.uasset",
+				"D:/Test_AI_BP/Test_AI_BP/Content/AITest/Enemies/AI/BTT_WieldSword.uasset",
+				"D:/Test_AI_BP/Test_AI_BP/Content/AITest/Enemies/AI/BTD_IsWieldingSword.uasset",
+				"D:/Test_AI_BP/Test_AI_BP/Content/AITest/Enemies/AI/jljl.uasset"
+			]
+		}
+	]
+}

@@ -75,4 +75,5 @@ DerivedDataCache/*
 
 
 # Resources
-# */Content/Characters/*
+*/Content/Characters/*
+*/Content/Resources/*
